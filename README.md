@@ -1,16 +1,40 @@
-# Mardown 
+# Reading Notes 102
 
-Pregunta 3
-1.  Que el talento no lo es todo, tambien el esfuerzo a cada dia , el aprendisaje y perserverancia lo es todo. Con este tipo de mentalidad una persona puede desarrollarse mejor. 
+## Introducción
 
-Pregunta 3.1
-1. Manter la perserverabcua cada dia.
-2. Esforazarse cada dia no importan si es un desafio dificil.
-3. Tener una mentalidad positivia antes cualquier adversidad, esto ayudara a mantenerse firme ante diferentes desafios.
+Hola mi nombre es Gianmarco Quispes soy de Lima,Perú.
+Me gusta programar y estoy aprendiendo HTML
 
-Pregunta 4
-1. Una de las funcionalidades seria poner un titulo con el simbolo #
-2. Para crear titulos mas pequeños es hasta el nivel 6 con el simbolo #
-3. Para poner texto en negrita hay dos manera **palabra** y __palabra__
-4. Texto en cursiva es *palabra* y _palabra_
-5. Hacer un vinculo es de la siguiente manera [palabra] (URL)
+## Sobre la web
+
+Este desarrollo de web trata sobre las lecturas desarrollados en EnterSchool. Me gusta programar y estoy aprendiendo HTML y CSS.
+
+## Tabla de contenidos
+
+- **102**
+  - [Aprendiendo Markdown](./102/lectura01.md)
+  - [Herramientas del Desarrollador](./102/lectura02.md)
+  - [Control de versiones con Git](./102/lectura03.md)
+  - [Lectura03](./102/lectura03.md)
+  - [Lectura04](./102/lectura04.md)
+  - [Lectura05](./102/lectura05.md)
+  - [Lectura06](./102/lectura06.md)
+  - [Lectura07](./102/lectura07.md)
+  - [Lectura08](./102/lectura08.md)
+
+- **201**
+  - [Lectura01](./201/lectura01.md)
+  - [Lectura02](./201/lectura02.md)
+  - [Lectura03](./201/lectura03.md)
+  - [Lectura04](./201/lectura04.md)
+  - [Lectura05](./201/lectura05.md)
+  - [Lectura06](./201/lectura06.md)
+  - [Lectura07](./201/lectura07.md)
+  - [Lectura08](./201/lectura08.md)
+  - [Lectura09](./201/lectura02.md)
+  - [Lectura10](./201/lectura03.md)
+  - [Lectura11](./201/lectura03.md)
+  - [Lectura12](./201/lectura03.md)
+  - [Lectura13](./201/lectura03.md)
+  - [Lectura14](./201/lectura03.md)
+  - [Lectura15](./201/lectura03.md)
